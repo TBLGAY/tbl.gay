@@ -1,0 +1,20 @@
+[discord]
+name = "discord"
+href = "https://discord.tbl.gay"
+icon = "ic:baseline-discord"
+color = "white"
+background = "#251848"
+
+[instagram]
+name = "instagram"
+href = "https://instagram.com/tblgay"
+icon = "mdi:instagram"
+color = "white"
+background = "rgb(255, 106, 106)"
+
+[contact]
+name = "contact"
+href = "mailto:tblgayinternal@yfs.ca"
+icon = "material-symbols:mail"
+color = "white"
+background = "#529d9d"

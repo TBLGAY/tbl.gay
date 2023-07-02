@@ -1,0 +1,6 @@
+staff = [
+    { position = "Coordinator", name = "Cyni Signet-Yang", pronouns = "they/them" },
+    { position = "Programming Chair", name = "Ryver Winters", pronouns = "fae/faer/it/its" },
+    { position = "Resource & Administration Chair", name = "Jia Yu", pronouns = "they/she" }
+
+]

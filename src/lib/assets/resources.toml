@@ -1,0 +1,50 @@
+#<a href="(.+)">(.+)</a>
+#{ name = "$2", link = "$1" },
+[tblgay]
+name = "TBLGAY"
+color = "rgba(129, 7, 93, 0.884)"
+links = [
+    { name = "Discord Server", link = "https://discord.com/invite/P8fWqmS " },
+    { name = "2022 TBLGAY Survival Guide", link = "https://drive.google.com/file/d/1X1AbTSR2HDE64DBmRwLtSMN4HQhwAbCx/view " },
+    { name = "YFS Health Plan (Gender Affirming Care)", link = "https://static1.squarespace.com/static/534d4d15e4b0458a1fec3b4e/t/6310f85c319a251c0f880dea/1662056540448/Benefits+booklet+22%3A23.pdf " },
+    { name = "Charities, Fundraisers, and Non Profits", link = "https://docs.google.com/spreadsheets/d/1lxoamyIRODua4zMmx99I1KO9hDr6T2R3QWRiQFjZZMU/edit?usp=sharing" },
+    { name = "Gender Affirming Items Shops", link = "https://docs.google.com/spreadsheets/d/16fkGn3u53zuawG_ztmAOa0Tet5B1gz66r2AAqOLLCDQ/edit?usp=sharing " },
+]
+
+[toronto]
+name = "Toronto"
+color = "rgba(19, 33, 113, 0.88)"
+links = [
+    { name = "Supporting Our Youth (Scarborough)", link = "https://soytoronto.com/about/" },
+    { name = "Friends Of Ruby", link = "http://friendsofruby.ca/" },
+    { name = "The 519", link = "https://www.the519.org/" },
+    { name = "Planned Parenthood", link = "http://www.ppt.on.ca/" },
+    { name = "Connect Clinic - Trans Virtual Healthcare", link = "https://www.connect-clinic.com/" },
+    { name = "Rainbow Health Ontario", link = "https://www.rainbowhealthontario.ca/" },
+    { name = "BindersOUT", link = "https://www.facebook.com/BindersOUT/?ref=page_internal" },
+    { name = "El-Tawhid Juma Circle", link = "http://www.jumacircle.com/" },
+]
+
+[food]
+name = "Food"
+color = "#4e773b"
+links = [
+    { name = "North York Harvest Food Bank", link = "https://northyorkharvest.com/" },
+    { name = "Food Link Hotline", link = "https://www.211toronto.ca/topic/food" },
+    { name = "York Federation Of Students Food Support Centre", link = "https://www.yfs.ca/food-support-centre" },
+]
+
+[yorku]
+name = "YorkU"
+color = "#9b0d0d"
+links = [
+    { name = "List of Gender Neutral Washrooms", link = "https://drive.google.com/file/d/1Nliizgwst3diWW7tgdqNfrEXxSRESJNH/view?usp=sharing" },
+    { name = "Name and Gender Identity Profile Change", link = "https://currentstudents.yorku.ca/name-and-gender-identity-profile-change" },
+    { name = "SCHW's LGBTQ2S+ Resources", link = "https://counselling.students.yorku.ca/lgbtq-resources" },
+    { name = "LGBTQ2S+ Support Groups", link = "https://counselling.students.yorku.ca/group-counselling-schw" },
+    { name = "Schulich Pride Alliance", link = "https://oneschulich.yorku.ca/spa/home/" },
+    { name = "CUPE 3903 Trans Fund", link = "https://3903.cupe.ca/410-2/" },
+    { name = "Canadian Foundation for AIDS Research (CANFAR) at YORK", link = "https://linktr.ee/CANFARatYU" },
+    { name = "Let's Stop Aids @ York", link = "https://letsstopaidsatyork.wordpress.com/home/all-about-hiv-aids/" },
+    { name = "Osgoode OUTlaws", link = "https://linktr.ee/OSGOODEOUTLAWS" },
+]

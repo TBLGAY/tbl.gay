@@ -1,0 +1,5 @@
+photo = "/space.jpg"
+open = [
+    { term = "Summer", hours = "Fridays, 11AM-4PM" },
+    { term = "Fall/Winter", hours = "Weekdays, 10AM-4PM" }
+]
