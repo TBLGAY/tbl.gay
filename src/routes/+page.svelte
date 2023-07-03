@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-    <title>tblgay</title>
+    <title>TBLGAY</title>
 </svelte:head>
 
 <SplitContainer>
