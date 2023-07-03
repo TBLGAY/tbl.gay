@@ -4,6 +4,10 @@
     
 </script>
 
+<svelte:head>
+    <title>tblgay | resources</title>
+</svelte:head>
+
 <main>
     {#each Object.values(resources) as section}
     <ResourceBox {...section} />

@@ -8,6 +8,10 @@
     const links = Object.values(links_data);
 </script>
 
+<svelte:head>
+    <title>tblgay</title>
+</svelte:head>
+
 <SplitContainer>
     <div slot="left" class="left">
         <h1 style:font-family="'Signika Negative', sans-serif">TBLGAY</h1>

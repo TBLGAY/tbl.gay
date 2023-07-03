@@ -3,6 +3,10 @@
     import space from "$lib/assets/space.toml";
 </script>
 
+<svelte:head>
+    <title>tblgay | drop-in</title>
+</svelte:head>
+
 <SplitContainer>
     <div slot="left" class="left">
         <img src={space.photo} alt="The TBLGAY drop-in space; a colorful room with couches arranged in a circle."/>

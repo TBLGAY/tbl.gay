@@ -33,6 +33,14 @@
     ];
 </script>
 
+<svelte:head>
+    <meta property="og:url" content="https://tbl.gay">
+    <meta property="og:type" content="website">
+    <meta name="description" content="a student-run service for the queer and trans community at York University.">
+    <meta property="og:description" content="a student-run service for the queer and trans community at York University.">
+    <meta property="og:image" content="https://tbl.gay/cover.jpg">
+</svelte:head>
+
 <Navbar {links} />
 
 <hr class="nav-separator">

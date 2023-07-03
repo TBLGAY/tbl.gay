@@ -3,6 +3,10 @@
     import staff from "$lib/assets/staff.toml";
 </script>
 
+<svelte:head>
+    <title>tblgay | about</title>
+</svelte:head>
+
 <SplitContainer>
     <div slot="left" class="left">
         <h1 style:font-family="'Signika Negative', sans-serif">about</h1>
