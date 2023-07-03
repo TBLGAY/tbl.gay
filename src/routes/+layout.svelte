@@ -50,6 +50,11 @@
     <meta name="twitter:title" content="TBLGAY">
     <meta name="twitter:description" content="a student-run service for the queer, asexual and trans community at York University.">
     <meta name="twitter:image" content="https://tbl.gay/cover.jpg">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 </svelte:head>
 
 <Navbar {links} />
