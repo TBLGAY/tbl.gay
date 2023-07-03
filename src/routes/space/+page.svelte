@@ -1,65 +1,76 @@
 <script>
-    import SplitContainer from "$lib/SplitContainer.svelte";
-    import space from "$lib/assets/space.toml";
+  import SplitContainer from "$lib/SplitContainer.svelte";
+  import space from "$lib/assets/space.toml";
 </script>
 
 <svelte:head>
-    <title>tblgay | drop-in</title>
+  <title>tblgay | drop-in</title>
 </svelte:head>
 
 <SplitContainer>
-    <div slot="left" class="left">
-        <img src={space.photo} alt="The TBLGAY drop-in space; a colorful room with couches arranged in a circle."/>
-    </div>
-    <hr>
-    <div slot="right" class="right">
-        <p>Our <b>drop-in space</b> is located at <b>Room 449A</b> of the <a href="https://goo.gl/maps/kx6jZiPE35HM4k6y9" target="_blank" rel="noopener noreferrer">First Student Centre</a>.</p>
-        <p>It's a cozy space to relax, study and meet new people!</p>
+  <div slot="left" class="left">
+    <img
+      src={space.photo}
+      alt="The TBLGAY drop-in space; a colorful room with couches arranged in a circle."
+    />
+  </div>
+  <hr />
+  <div slot="right" class="right">
+    <p>
+      Our <b>drop-in space</b> is located at <b>Room 449A</b> of the
+      <a
+        href="https://goo.gl/maps/kx6jZiPE35HM4k6y9"
+        target="_blank"
+        rel="noopener noreferrer">First Student Centre</a
+      >.
+    </p>
+    <p>It's a cozy space to relax, study and meet new people!</p>
 
-        <h3>Open Hours</h3>
-        {#each Object.values(space.open) as times }
-        <h4>{times.term}</h4>
-        <p>{times.hours}</p>
-        {/each}
-    </div>
+    <h3>Open Hours</h3>
+    {#each Object.values(space.open) as times}
+      <h4>{times.term}</h4>
+      <p>{times.hours}</p>
+    {/each}
+  </div>
 </SplitContainer>
 
 <style>
-    .left {
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-        /* align-items: center; */
-        justify-content: flex-start;
-        margin-top: 1em;
-        margin-bottom: 1em;
-    }
+  .left {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: flex-start;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
 
-    img {
-        max-width: 100%;
-        border-radius: 1em;
-    }
+  img {
+    max-width: 100%;
+    border-radius: 1em;
+  }
 
-    p {
-        font-family: 'DM Sans', sans-serif;
-        margin-top: 0;
-        font-size: 1.05em;
-    }
+  p {
+    font-family: "DM Sans", sans-serif;
+    margin-top: 0;
+    font-size: 1.05em;
+  }
 
-    h3, h4 {
-        font-family: 'DM Sans', sans-serif;
-        margin-bottom: 0.1em;
-    }
+  h3,
+  h4 {
+    font-family: "DM Sans", sans-serif;
+    margin-bottom: 0.1em;
+  }
 
-    h4 {
-        font-size: 1.09em;
-    }
+  h4 {
+    font-size: 1.09em;
+  }
 
-    a {
-        color: #db1225;
-    }
+  a {
+    color: #db1225;
+  }
 
-    a:hover {
-        color: #9b0b19;
-    }
+  a:hover {
+    color: #9b0b19;
+  }
 </style>

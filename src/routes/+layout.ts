@@ -1,2 +1,2 @@
 export const prerender = true;
-import '@purge-icons/generated'
+import "@purge-icons/generated";
