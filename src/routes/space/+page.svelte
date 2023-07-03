@@ -13,7 +13,7 @@
     </div>
     <hr>
     <div slot="right" class="right">
-        <p>Our <b>drop-in space</b> is located at <b>Room 449A</b> of the <a href="https://goo.gl/maps/kx6jZiPE35HM4k6y9">First Student Centre</a>.</p>
+        <p>Our <b>drop-in space</b> is located at <b>Room 449A</b> of the <a href="https://goo.gl/maps/kx6jZiPE35HM4k6y9" target="_blank" rel="noopener noreferrer">First Student Centre</a>.</p>
         <p>It's a cozy space to relax, study and meet new people!</p>
 
         <h3>Open Hours</h3>

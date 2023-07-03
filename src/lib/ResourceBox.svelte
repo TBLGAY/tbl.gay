@@ -10,7 +10,7 @@
     <h3 style:background-color={color}>{name}</h3>
     <ul role="list">
         {#each links as link}
-        <li><a href={link.link}>{link.name}</a></li>
+        <li><a href={link.link} target="_blank" rel="noopener noreferrer">{link.name}</a></li>
         {/each}
     </ul>
 </section>

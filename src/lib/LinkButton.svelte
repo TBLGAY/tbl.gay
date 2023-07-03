@@ -6,7 +6,7 @@
     export let background: string = "aliceblue";
 </script>
 
-<a {href} style:color={color} style:background-color={background}>
+<a {href} style:color={color} style:background-color={background} target="_blank" rel="noopener noreferrer">
     <span><span class="iconify" data-icon={icon} style="vertical-align: middle;" /></span> {name} 
 </a>
 
