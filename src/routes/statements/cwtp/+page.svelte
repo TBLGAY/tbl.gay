@@ -20,7 +20,7 @@
   <p>
     As you may already know, the Centre for Women and Trans People at York
     University closed its doors on August 18th, 2023. We highly recommend you
-    read the Centre’s official statement on the matter before this one.
+    read <a href="https://drive.google.com/file/d/1sWOeE9xyZ0GLGhWLg9pNoeCGWFNwfeP-/view" target="_blank" rel="noopener noreferrer">the Centre’s official statement on the matter</a> before this one.
   </p>
   <p>
     The news has not been easy on us — both as frequent organizational partners
