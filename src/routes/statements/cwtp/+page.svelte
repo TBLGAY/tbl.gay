@@ -174,7 +174,7 @@
   footer,
   ol {
     width: 100%;
-    text-align: justify;
+    text-align: left;
     font-size: 1rem;
     margin-top: 0.2em;
   }
