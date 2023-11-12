@@ -1,4 +1,3 @@
 staff = [
     { position = "Coordinator", name = "Kore M.", pronouns = "it/its" },
-    { position = "Resource & Administration Chair", name = "Jia Yu", pronouns = "they/she" }
 ]
