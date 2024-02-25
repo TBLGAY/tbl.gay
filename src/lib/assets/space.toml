@@ -1,5 +1,6 @@
 photo = "/space.jpg"
 open = [
+    { term = "During CUPE 3903 Strike", hours = "Closed until further notice" },
     { term = "Summer", hours = "Fridays, 11AM-4PM" },
     { term = "Fall/Winter", hours = "Weekdays, 10AM-4PM" }
 ]
