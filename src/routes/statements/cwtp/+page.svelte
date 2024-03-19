@@ -3,7 +3,6 @@
 </svelte:head>
 
 <main>
-
   <h1 style="margin-bottom: 0.2em">
     <strong>Updated statement on CWTP’s closure</strong>
   </h1>
@@ -16,7 +15,8 @@
     >
   </p>
   <p style="text-align:center; margin-top: 0em; margin-bottom:2em; width: 50%;">
-    This document is an update to a previous statement. For transparency, that statement is available later in this page.
+    This document is an update to a previous statement. For transparency, that
+    statement is available later in this page.
   </p>
 
   <p>

@@ -16,6 +16,10 @@
       href: "/about",
     },
     {
+      name: "constitution",
+      href: "/constitution"
+    },
+    {
       name: "drop-in",
       href: "/space",
     },
@@ -65,7 +69,11 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest" />
 
-  <script async src="https://umami.cat-girl.gay/script.js" data-website-id="25038b8d-7b3b-46d1-a1c0-16a61e78c18f"></script>
+  <script
+    async
+    src="https://umami.cat-girl.gay/script.js"
+    data-website-id="25038b8d-7b3b-46d1-a1c0-16a61e78c18f"
+  ></script>
 </svelte:head>
 
 <Navbar {links} />

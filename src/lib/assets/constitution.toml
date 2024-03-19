@@ -1,0 +1,20 @@
+[discord]
+name = "constitution"
+href = "/constitution/constitution.pdf"
+icon = "mdi:document-sign"
+color = "white"
+background = "#375740"
+
+[instagram]
+name = "compensation"
+href = "/constitution/compensation.pdf"
+icon = "lucide:coins"
+color = "white"
+background = "rgb(255, 106, 106)"
+
+[contact]
+name = "events"
+href = "/constitution/events.pdf"
+icon = "material-symbols:event"
+color = "white"
+background = "#529d9d"
