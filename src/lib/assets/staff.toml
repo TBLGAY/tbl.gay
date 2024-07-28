@@ -1,3 +1,6 @@
 staff = [
-    { position = "Coordinator", name = "Kore M.", pronouns = "it/its" },
+    { position = "Internal Chair", name = "Amber", pronouns = "he/she/it" },
+    { position = "Internal Chair", name = "Ari", pronouns = "they/she" },
+    { position = "Internal Chair", name = "Sofia", pronouns = "she/they" },
+    { position = "Coordinator", name = "Kore", pronouns = "it/its" },
 ]
