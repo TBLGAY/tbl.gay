@@ -1,6 +1,13 @@
-staff = [
-    { position = "Internal Chair", name = "Amber", pronouns = "he/she/it" },
-    { position = "Internal Chair", name = "Ari", pronouns = "they/she" },
-    { position = "Internal Chair", name = "Sofia", pronouns = "she/they" },
-    { position = "Coordinator", name = "Kore", pronouns = "it/its" },
+[coordinator]
+name = "Coordinator"
+members = [
+    { name = "Kore", pronouns = "it/its" }
+]
+
+[internal-chair]
+name = "Internal Chairs"
+members = [
+    { name = "Amber", pronouns = "he/she/it" },
+    { name = "Ari", pronouns = "they/she" },
+    { name = "Sofia", pronouns = "she/they" }
 ]

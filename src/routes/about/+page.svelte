@@ -25,12 +25,17 @@
   <div slot="right" class="right">
     <h2 style:font-family="'Signika Negative', sans-serif">current staff</h2>
     <ul role="list" class="positions">
-      {#each Object.values(staff.staff) as person}
+      {#each Object.values(staff) as position}
         <li class="position">
-          <h4 style:margin-bottom="0.3em">{person.position}</h4>
-          <span style:margin-left="1em"
-            >{person.name} <sub>{person.pronouns}</sub></span
-          >
+          <h4 style:margin-bottom="0.3em">{position.name}</h4>
+          <ul class="positions">
+            {#each position.members as person}
+              <li>
+                <span style:margin-left="1em"
+                  >{person.name} <sub>{person.pronouns}</sub></span>
+              </li>
+            {/each}
+          </ul>
         </li>
       {/each}
       <!-- <li class="position">
