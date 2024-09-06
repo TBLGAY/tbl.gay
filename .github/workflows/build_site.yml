@@ -25,6 +25,7 @@ jobs:
           BASE_PATH: ""
         run: |
           npm run build
+          npm run postbuild
           touch build/.nojekyll
 
       - name: Upload Artifacts
