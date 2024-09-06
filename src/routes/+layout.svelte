@@ -94,7 +94,7 @@
        "image": "https://tbl.gay/black-logo.png",
        "logo": "https://tbl.gay/black-logo.png",
        "name": "TBLGAY",
-       "description": "York University's student-run queer community service!",
+       "description": "York University's student-run queer & LGBTQ+ community service! We have a drop-in space, events and more.",
        "email": "tblgay@yfs.ca",
        "address": {
          "@type": "PostalAddress",
