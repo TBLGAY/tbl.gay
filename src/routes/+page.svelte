@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-  <title>TBLGAY</title>
+  <title>TBLGAY: YorkU's queer student community</title>
 </svelte:head>
 
 <SplitContainer>
