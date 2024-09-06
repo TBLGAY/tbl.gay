@@ -13,7 +13,7 @@
     <p>
       Trans, Bisexual, Lesbian, Gay, Asexual at York is a student-run service,
       funded by the York Federation of Students to offer resources and support
-      for the queer, trans and asexual community in and around York University.
+      for the LGBTQ+/queer, trans and asexual community in and around York University.
     </p>
     <p>
       We campaign for better conditions for queer students at YorkU, host a
