@@ -1,0 +1,17 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://tbl.gay",
+    "logo": "https://tbl.gay/black-logo.png",
+    "name": "TBLGAY",
+    "description": "York University's student-run queer community service!",
+    "email": "tblgay@yfs.ca",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "94 York Blvd",
+      "addressLocality": "Toronto",
+      "addressCountry": "CA",
+      "addressRegion": "Ontario",
+      "postalCode": "M3J1P3"
+    }
+  }

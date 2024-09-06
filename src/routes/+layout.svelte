@@ -16,7 +16,7 @@
     },
     {
       name: "constitution",
-      href: "/constitution"
+      href: "/constitution",
     },
     {
       name: "drop-in",
@@ -69,14 +69,44 @@
   <link rel="manifest" href="/site.webmanifest" />
 
   <link rel="preload" href="/fonts/dm-sans-v13-latin-regular.woff2" as="font" />
-  <link rel="preload" href="/fonts/roboto-serif-v13-latin-regular.woff2" as="font" />
-  <link rel="preload" href="/fonts/signika-negative-v20-latin-700.woff2" as="font" />
+  <link
+    rel="preload"
+    href="/fonts/roboto-serif-v13-latin-regular.woff2"
+    as="font"
+  />
+  <link
+    rel="preload"
+    href="/fonts/signika-negative-v20-latin-700.woff2"
+    as="font"
+  />
 
   <script
     async
     src="https://umami.cat-girl.gay/script.js"
     data-website-id="25038b8d-7b3b-46d1-a1c0-16a61e78c18f"
   ></script>
+
+  <script type="application/ld+json">
+    {
+       "@context": "https://schema.org",
+       "@type": "Organization",
+       "url": "https://tbl.gay",
+       "image": "https://tbl.gay/black-logo.png",
+       "logo": "https://tbl.gay/black-logo.png",
+       "name": "TBLGAY",
+       "description": "York University's student-run queer community service!",
+       "email": "tblgay@yfs.ca",
+       "address": {
+         "@type": "PostalAddress",
+         "streetAddress": "94 York Blvd",
+         "addressLocality": "Toronto",
+         "addressCountry": "CA",
+         "addressRegion": "Ontario",
+         "postalCode": "M3J1P3"
+       }
+     }
+
+  </script>
 </svelte:head>
 
 <Navbar {links} />
