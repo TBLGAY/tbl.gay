@@ -5,6 +5,7 @@
 
 <svelte:head>
   <title>tblgay | drop-in</title>
+  <link rel="preload" href="{space.photo}" as="image" />
 </svelte:head>
 
 <SplitContainer>
