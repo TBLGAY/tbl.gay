@@ -68,16 +68,23 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest" />
 
-  <link rel="preload" href="/fonts/dm-sans-v13-latin-regular.woff2" as="font" />
+  <link
+    rel="preload"
+    href="/fonts/dm-sans-v13-latin-regular.woff2"
+    as="font"
+    crossorigin="anonymous"
+  />
   <link
     rel="preload"
     href="/fonts/roboto-serif-v13-latin-regular.woff2"
     as="font"
+    crossorigin="anonymous"
   />
   <link
     rel="preload"
     href="/fonts/signika-negative-v20-latin-700.woff2"
     as="font"
+    crossorigin="anonymous"
   />
 
   <script
