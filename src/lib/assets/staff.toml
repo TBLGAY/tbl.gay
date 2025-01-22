@@ -7,7 +7,6 @@ members = [
 [internal-chair]
 name = "Internal Chairs"
 members = [
-    { name = "Amber", pronouns = "he/she/it" },
-    { name = "Ari", pronouns = "they/she" },
+    { name = "Ilyas", pronouns = "he/she/it" },
     { name = "Sofia", pronouns = "she/they" }
 ]
