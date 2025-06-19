@@ -1,12 +1,13 @@
 [coordinator]
 name = "Coordinator"
 members = [
-    { name = "Kore", pronouns = "it/its" }
+    { name = "Ilyas", pronouns = "he/she/it" }
 ]
 
 [internal-chair]
 name = "Internal Chairs"
 members = [
-    { name = "Ilyas", pronouns = "he/she/it" },
+    { name = "Apollo", pronouns = "he/him" },
     { name = "Sofia", pronouns = "she/they" }
+    { name = "Will", pronouns = "any/all" },
 ]
