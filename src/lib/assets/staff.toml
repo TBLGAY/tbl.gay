@@ -8,6 +8,6 @@ members = [
 name = "Internal Chairs"
 members = [
     { name = "Apollo", pronouns = "he/him" },
-    { name = "Sofia", pronouns = "she/they" }
-    { name = "Will", pronouns = "any/all" },
+    { name = "Sofia", pronouns = "she/they" },
+    { name = "Will", pronouns = "any/all" }
 ]
