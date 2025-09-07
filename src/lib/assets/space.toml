@@ -1,5 +1,5 @@
 photo = "/space.jpg"
 open = [
-    { term = "Monday & Thursday", hours = "10AM-2:30PM"}
+    { term = "Monday & Thursday", hours = "10AM-2:30PM"},
     { term = "Tuesday & Wednesday", hours = "10AM-4PM"}
 ]
