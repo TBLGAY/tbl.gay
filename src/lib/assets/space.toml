@@ -1,7 +1,4 @@
 photo = "/space.jpg"
 open = [
-    { term = "Fall 2025", hours = """
-    Monday & Thursday, 10AM-2:30PM \n
-    Tuesday & Wednesday, 10AM-4PM
-    """ }
+    { term = "Fall 2025", hours = "Monday & Thursday, 10AM-2:30PM", hours = "Tuesday & Wednesday, 10AM-4PM" }
 ]
