@@ -27,11 +27,14 @@
     </p>
     <p>It's a cozy space to relax, study and meet new people!</p>
 
-    <h3>Open Hours</h3>
+    <h3>Open Hours - Fall 2025</h3>
     {#each Object.values(space.open) as times}
       <h4>{times.term}</h4>
       <p>{times.hours}</p>
     {/each}
+
+    <p><sub>*Due to understaffing, TBLGAY is currently operating at reduced hours. We'll be back to our usual 10-4 on weekdays as soon as we can!</sub></p>
+
   </div>
 </SplitContainer>
 
