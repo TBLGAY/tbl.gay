@@ -27,7 +27,7 @@
     </p>
     <p>It's a cozy space to relax, study and meet new people!</p>
 
-    <h3>Open Hours - Winter 2025</h3>
+    <h3>Open Hours - Winter 2026</h3>
     {#each Object.values(space.open) as times}
       <h4>{times.term}</h4>
       <p>{times.hours}</p>
